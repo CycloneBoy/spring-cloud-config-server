@@ -1,1 +1,3 @@
 
+config:
+  hello: hello,  config in test.yml
