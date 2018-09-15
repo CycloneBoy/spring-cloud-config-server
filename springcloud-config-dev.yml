@@ -1,1 +1,2 @@
-
+config:
+  hello: hello,  config in dev.yml
